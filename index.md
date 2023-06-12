@@ -64,10 +64,12 @@ deb http://security.ubuntu.com/ubuntu/ focal-security main restricted universe m
 
 # 安装NVIDIA驱动
 1.![](./img/NVIDIA-driver-1.png)
+
 2.![](./img/NVIDIA-driver-2.png)
+
 3.![](./img/NVIDIA-driver-3.png)
 
-重启机器
+##重启机器
 
 # 安装NVIDIA-docker
 ```
